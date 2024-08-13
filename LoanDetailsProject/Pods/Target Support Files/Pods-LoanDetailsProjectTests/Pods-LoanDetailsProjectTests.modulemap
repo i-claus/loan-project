@@ -1,0 +1,6 @@
+framework module Pods_LoanDetailsProjectTests {
+  umbrella header "Pods-LoanDetailsProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
