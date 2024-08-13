@@ -19,7 +19,7 @@ LoanDetailsProject is an iOS application that displays loan details using SwiftU
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/LoanDetailsProject.git
+    git clone https://github.com/i-claus/loan-project.git
     cd LoanDetailsProject
     ```
 
